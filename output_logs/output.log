@@ -1,0 +1,14 @@
+[I 10:17:50.405 NotebookApp] Serving notebooks from local directory: /home/thomas
+[I 10:17:50.405 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 10:17:50.405 NotebookApp] http://localhost:8888/?token=bf7f5d65c490e6bd0af005276d8acc15757332170bdb1e75
+[I 10:17:50.405 NotebookApp]  or http://127.0.0.1:8888/?token=bf7f5d65c490e6bd0af005276d8acc15757332170bdb1e75
+[I 10:17:50.405 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:17:50.457 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/thomas/.local/share/jupyter/runtime/nbserver-6004-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=bf7f5d65c490e6bd0af005276d8acc15757332170bdb1e75
+     or http://127.0.0.1:8888/?token=bf7f5d65c490e6bd0af005276d8acc15757332170bdb1e75
+[I 10:18:15.298 NotebookApp] Kernel started: 7c821675-9ec2-42b6-9fa6-048e10a05f76, name: python3
+[I 10:18:40.048 NotebookApp] Starting buffering for 7c821675-9ec2-42b6-9fa6-048e10a05f76:d76147cbcb134566849707e57d07ea34
